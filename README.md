@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shefki Berisha!
+- 👋 Hi, I’m Brutiv!
 - 👀 I’m interested in making Discord bots!
 - 🌱 I’m currently learning new languages and ways to make better Discord bots!
 - 💞️ I’m looking to collaborate on a Discord security bot like Wick!
