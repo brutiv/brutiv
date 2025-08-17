@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Brutiv!
-- 👀 I’m interested in making Discord bots!
-- 🌱 I’m currently learning new languages and ways to make better Discord bots!
-- 💞️ I’m looking to collaborate on a Discord security bot like Wick!
+- 👋 Hi, I’m Brutiv
+- 👀 I’m interested in making Discord bots
+- 🌱 I’m currently learning new languages and ways to make better Discord bots
 - 📫 You can reach out to me via Discord, my username is @brutiv
-- ⚡ Fun fact: Did you know that octopuses have three hearts? Two pump blood to the gills, while the third pumps it to the rest of the body!
