@@ -4,4 +4,4 @@
 - I'm extremely passionate about it, and have made bots in a wide variety of languahes and libraries.
 - I'm currently learning Java and Rust.
 ---
-![brutiv's Stats](https://github-readme-stats.vercel.app/api?username=brutiv&theme=dark&show_icons=true&hide_border=false&count_private=true) - ![brutiv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brutiv&theme=dark&show_icons=true&hide_border=false&layout=compact)
+![brutiv's Stats](https://github-readme-stats.vercel.app/api?username=brutiv&theme=dark&show_icons=true&hide_border=false&count_private=true) ![brutiv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brutiv&theme=dark&show_icons=true&hide_border=false&layout=compact)
