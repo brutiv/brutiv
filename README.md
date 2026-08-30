@@ -5,3 +5,4 @@
 - **I'm currently learning C# and Rust.**
 ---
 [![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=brutiv)](https://www.readmecodegen.com/custom-github-card-generator)
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=brutiv&cardType=langs)](https://www.readmecodegen.com/custom-github-card-generator)
