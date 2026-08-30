@@ -19,7 +19,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=brutiv&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=brutiv&icon=5&color=0)](https://visitcount.itsvg.in) [![committers.top badge](https://user-badge.committers.top/kosovo/brutiv.svg)](https://user-badge.committers.top/kosovo/brutiv)
+![](https://github-visitor-counter-tau.vercel.app/api?username=brutiv&displayMode=miniCounter&theme=github_dark&miniDisplay=pageviews) [![committers.top badge](https://user-badge.committers.top/kosovo/brutiv.svg)](https://user-badge.committers.top/kosovo/brutiv)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
