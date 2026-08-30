@@ -1,4 +1,4 @@
-[![Brutiv profile views](https://u8views.com/api/v1/github/profiles/155109578/views/day-week-month-total-count.svg)](https://u8views.com/github/brutiv) &nbsp; &nbsp; &nbsp; [![committers.top badge](https://user-badge.committers.top/kosovo/brutiv.svg)](https://user-badge.committers.top/kosovo/brutiv)
+[![Brutiv profile views](https://u8views.com/api/v1/github/profiles/155109578/views/day-week-month-total-count.svg)](https://u8views.com/github/brutiv) &nbsp; &nbsp; [![committers.top badge](https://user-badge.committers.top/kosovo/brutiv.svg)](https://user-badge.committers.top/kosovo/brutiv)
 
 ---
 
