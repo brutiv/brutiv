@@ -19,7 +19,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=brutiv&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-![](https://github-visitor-counter-tau.vercel.app/api?username=brutiv&displayMode=miniCounter&theme=github_dark&miniDisplay=pageviews) [![committers.top badge](https://user-badge.committers.top/kosovo/brutiv.svg)](https://user-badge.committers.top/kosovo/brutiv)
+[![Brutiv profile views](https://u8views.com/api/v1/github/profiles/155109578/views/day-week-month-total-count.svg)](https://u8views.com/github/brutiv) [![committers.top badge](https://user-badge.committers.top/kosovo/brutiv.svg)](https://user-badge.committers.top/kosovo/brutiv)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
