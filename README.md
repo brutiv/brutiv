@@ -1,3 +1,8 @@
+[![Brutiv profile views](https://u8views.com/api/v1/github/profiles/155109578/views/day-week-month-total-count.svg)](https://u8views.com/github/brutiv) [![committers.top badge](https://user-badge.committers.top/kosovo/brutiv.svg)](https://user-badge.committers.top/kosovo/brutiv)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
 # About Me
 - **Hey there! I'm Brutiv, a Python developer currently expanding my skills to other languages and systems.**<br>- **My main skill is Discord Bot Development, which I've been doing since late 2021.**<br>- **I'm extremely passionate about it, and have made bots in a wide variety of languages and libraries.**<br>- **I'm currently learning C# and Rust.**
 
@@ -14,9 +19,3 @@
 
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=brutiv&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![Brutiv profile views](https://u8views.com/api/v1/github/profiles/155109578/views/day-week-month-total-count.svg)](https://u8views.com/github/brutiv) [![committers.top badge](https://user-badge.committers.top/kosovo/brutiv.svg)](https://user-badge.committers.top/kosovo/brutiv)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
