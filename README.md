@@ -4,4 +4,4 @@
 - **I'm extremely passionate about it, and have made bots in a wide variety of languages and libraries.**
 - **I'm currently learning C# and Rust.**
 ---
-[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=brutiv)](https://www.readmecodegen.com/custom-github-card-generator)[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=brutiv&cardType=langs)](https://www.readmecodegen.com/custom-github-card-generator)[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=brutiv&cardType=streak)](https://www.readmecodegen.com/custom-github-card-generator)
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=brutiv)](https://www.readmecodegen.com/custom-github-card-generator)
