@@ -1,5 +1,4 @@
 [![Brutiv profile views](https://u8views.com/api/v1/github/profiles/155109578/views/day-week-month-total-count.svg)](https://u8views.com/github/brutiv) [![committers.top badge](https://user-badge.committers.top/kosovo/brutiv.svg)](https://user-badge.committers.top/kosovo/brutiv)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
@@ -19,3 +18,7 @@
 
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=brutiv&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
